@@ -1,6 +1,5 @@
 # Clustering-Algorithms
-Comprehensive study and analysis of various clustering algorithms 
 
+![](Clustering-Algorithms/Images/clusters.png)
 
-
-Dataset obtained from website http://cs.joensuu.fi/sipu/datasets/
+      
